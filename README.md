@@ -19,3 +19,6 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 ## Autor
 @AudreyBergamine @fatecfv2024
+
+A data de hoje é 19/03/2024
+
